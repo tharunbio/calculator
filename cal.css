@@ -1,0 +1,22 @@
+.con{
+    border: 1px solid black;
+    height: 500px;
+    width: 300px;
+    margin-left: 50px;
+    background-color: antiquewhite;
+}
+.header{
+    margin-left: 70px;
+}
+.n1,.n2{
+    margin-left: 20px;
+}
+button{
+    border: 2px solid ;
+    margin-left: 20px;
+    background-color: yellow;
+}
+
+p{
+    margin-left: 20px;
+}
